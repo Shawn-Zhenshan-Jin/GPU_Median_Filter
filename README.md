@@ -8,4 +8,4 @@
 * grd = samples/bdk + 1 
 
 
-This median filter is based on the paper [link](http://ceur-ws.org/Vol-1543/p1.pdf "High Performance Median Filtering Algorithm Based on NVIDIA GPU Computing"). In the paper, Mr.Placido only implement the odd number median filter and my median filter can is suitable for both even and odd situation
+This median filter is based on the paper [link](http://ceur-ws.org/Vol-1543/p1.pdf "High Performance Median Filtering Algorithm Based on NVIDIA GPU Computing"). In the paper, Mr.Placido only implemented the median filter for odd number and this median filter is efficient for both even and odd situation
