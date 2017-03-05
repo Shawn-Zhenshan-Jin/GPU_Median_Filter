@@ -4,8 +4,8 @@
 int c;
 int c_even;
 if((N % 2) == 0){
-	N = N/2;
-	N = N/2 - 1;
+	c = N/2;
+	c_even = N/2 - 1;
 } else {
 	c = (N - 1)/2;
 	c_even = 0;
